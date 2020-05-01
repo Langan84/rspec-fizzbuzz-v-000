@@ -8,7 +8,7 @@ def fizzbuzz(int)
   elsif int % 5 == 0 # if the number int is divisible by 5
   "Buzz" # Go Buzz
   
-  elsif int % 3 + 5 == 0 # if the number int is divisible by 3 + 5
+  elsif int % 15 == 0 # if the number int is divisible by 3 + 5
   "FizzBuzz" # Go Buzz
   end
   
