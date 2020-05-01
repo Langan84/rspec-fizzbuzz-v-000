@@ -15,4 +15,4 @@ def fizzbuzz(int)
   
 end
 
-fizzbuzz(15)
+fizzbuzz(int)
